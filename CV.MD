@@ -16,7 +16,7 @@ I am 28 years old, I work at a boring job. I want to gain new knowledge and deve
 * Git/GitHub (in progress)
 
 ## Code Examples
-```unction rot13(message){
+`unction rot13(message){
   let alphabetArr = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'.split('')
   let upAlphabetArr = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz'.toUpperCase().split('')
   let messageArr = message.split('')
@@ -34,7 +34,7 @@ I am 28 years old, I work at a boring job. I want to gain new knowledge and deve
     }
   }
 
-  return newArr.join('')```
+  return newArr.join('')`
 
 ## Education
 * Saratov State University (Saratov, Russia)
